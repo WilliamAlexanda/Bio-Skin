@@ -3,4 +3,4 @@ Bio-Skin is a Cost-Effective Thermostatic Tactile Sensor. This work is accpeted 
 
 Please check the project homepage for more detail: https://williamalexanda.github.io/Bio-Skin/
 
-Chekcthe Open_Bio-Skin for code and hardware: https://github.com/WilliamAlexanda/Open_Bio-Skin
+Chekc the Open_Bio-Skin for code and hardware: https://github.com/WilliamAlexanda/Open_Bio-Skin
